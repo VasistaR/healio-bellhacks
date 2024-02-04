@@ -5,7 +5,7 @@ def pretty_print(messages):
         print(f"{m.role}: {m.content[0].text.value}")
     print()
 assistant_id = "asst_waK5VGLuZif0v7F2NV5YLB87"
-client = OpenAI(api_key=("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"))
+client = OpenAI(api_key=("INSERT API KEY HERE"))
 def submit_message(assistant_id, thread, user_message):
     client.beta.threads.messages.create(
         thread_id=thread.id, role="user", content=user_message
