@@ -1,0 +1,6 @@
+@font-face{
+    font-family: 'ReadexPro-Regular';
+    font-style: normal;
+    font-weight:normal;
+    src:local('ReadexPro-Regular'),url('./fonts/ReadexPro-Regular.ttf')
+}

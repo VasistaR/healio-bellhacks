@@ -1,0 +1,17 @@
+nav{
+    position:fixed;
+    width:1729px;
+    height:79px;
+    top:0px;
+    background: #96E8BC;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    left:0px;
+    padding-left:30px;
+    font-size: 40px;
+    z-index: 100;
+}
+nav a{
+    offset-position:30px;
+}

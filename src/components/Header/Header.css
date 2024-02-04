@@ -1,0 +1,63 @@
+header{
+    min-height: 100%;
+    position:absolute;
+    top:100px;
+    left:100px;
+    text-align:center;
+}
+
+
+.UpcomingEvents{
+    display:inline-block;
+    background: #7DD181;
+    width: 413px;
+    height: 275px;
+    position:absolute;
+    left:175%;
+    top:0px;
+}
+
+.RapidHealthcare{
+    display:inline-block;
+    background: #7DD181;
+    width: 413px;
+    height: 275px;
+    position:absolute;
+    left:175%;
+    top:325px;
+}
+
+.title1{
+    font-size:20px;
+    text-decoration: underline;
+}
+
+.title2{
+    font-size:20px;
+    text-decoration: underline;
+}
+
+ul{
+    font-size:20px;
+    text-align:left;
+    list-style-position: inside;
+}
+
+.you{
+    font-weight:700;
+}
+.healio{
+    font-weight:700;
+}
+.Chatbot{
+    max-width:450px;
+    word-wrap: break-word;
+    text-align: left;
+}
+.InputBar{
+    display:inline-block;
+    background:#B6F9C9;
+    width:400px;
+    height:300px;
+    position:absolute;
+}

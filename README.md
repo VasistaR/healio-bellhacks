@@ -1,3 +1,8 @@
-# healio-bellhacks
-Healio app that uses a custom data set, prompt engineering, and python backend to create an AI model based on GPT-4 that will diagnose a disease based on symptoms and return drugs needed for that disease and its cost. 
-This app was partially built. It was fully built on the backend with some front end and was primarily missing the API to connect the frontend and backend.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
